@@ -20,25 +20,26 @@ version |	date
 
 ### Inversion of Control
 
-**IoC**: the approach of outsourcing the construction and management of objects.
+* **IoC**: the approach of outsourcing the construction and management of objects.
 
-**Bean**: java object managed by Spring IoC container.
+* **Bean**: java object managed by Spring IoC container.
 
-example: look papers
+* example: look papers
 
 ### Dependency Injection
 
-**DI**: the client delegates to calls another object the responsibility of providing its dependencies.
+* **DI**: the client delegates to calls another object the responsibility of providing its dependencies.
 
-example: look papers
+* example: look papers
 
-* constructor injection
-* setter injection
-* method injection
-* inject literal values
-* inject values from property file
+* types:
+  * constructor injection
+  * setter injection
+  * method injection
+  * inject literal values
+  * inject values from property file
 
-### Bean Scopes
+### Bean Scope
 
 scope          | type      | description
 ---------------|-----------|-----------------------------------------------------------------

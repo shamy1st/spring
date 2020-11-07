@@ -50,8 +50,9 @@ request        |           | scoped to an HTTP web request, only used for web ap
 session        |           | scoped to an HTTP web session, only used for web apps.
 global-session |           | scoped to a global HTTP web session, only used for web apps.
 
-
-
+### Spring MVC
+Framework for building web applications in java based on  Model-View-Control design pattern.
+![](https://github.com/shamy1st/spring/blob/main/spring-mvc.png)
 
 
 

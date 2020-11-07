@@ -40,6 +40,7 @@ version |	date
   * inject values from property file
 
 ### Bean Scope
+https://docs.spring.io/spring-framework/docs/3.0.0.M3/reference/html/ch04s04.html?
 
 scope          | type      | description
 ---------------|-----------|-----------------------------------------------------------------

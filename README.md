@@ -28,7 +28,7 @@ version |	date
 
 ### Dependency Injection
 
-* **DI**: the client delegates to calls another object the responsibility of providing its dependencies.
+* **DI**: is a technique that removes the dependency from the code.
 
 * example: look papers
 
